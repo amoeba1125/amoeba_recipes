@@ -21,42 +21,42 @@ Minecraft Java Edition 1.14 - 1.19
 ## 新增配方
 <img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/campfire_to_charcoal.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/clay_to_clay_ball.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/clay_to_clay_ball.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/dead_bush_to_stick.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/dead_bush_to_stick.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/dirt_path_to_dirt.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/dirt_path_to_dirt.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/dispenser.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/dispenser.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/farmland_to_dirt.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/farmland_to_dirt.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/glowstone_to_glowstone_dust.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/glowstone_to_glowstone_dust.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/grass_block_to_dirt.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/grass_block_to_dirt.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/gravels_to_flint.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/gravels_to_flint.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/hopper.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/hopper.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/logs_to_chests.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/logs_to_chests.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/logs_to_ladders.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/logs_to_ladders.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/logs_to_sticks.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/logs_to_sticks.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/melon_to_melon_slice.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/melon_to_melon_slice.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/mycelium_to_dirt.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/mycelium_to_dirt.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/podzol_to_dirt.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/podzol_to_dirt.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/potion_to_glass_bottle.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/potion_to_glass_bottle.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/redstone_lamp.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/redstone_lamp.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/repeater.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/repeater.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/sea_lantern_to_prismarine_crystals.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/sea_lantern_to_prismarine_crystals.png" width="250px">
 
-![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/soul_campfire_to_soul_soil.png)
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/soul_campfire_to_soul_soil.png" width="250px">
