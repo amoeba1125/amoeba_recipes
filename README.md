@@ -19,7 +19,7 @@ Minecraft Java Edition 1.14 - 1.19
 西瓜方塊*1 → 西瓜片*9 (挖掘西瓜方塊並非必定掉落西瓜片*9)
 ```
 ## 新增配方
-<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/campfire_to_charcoal.png" width="100px">
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/images/campfire_to_charcoal.png" width="250px">
 
 ![image](https://github.com/amoeba1125/amoeba_recipes/blob/main/images/clay_to_clay_ball.png)
 
