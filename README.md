@@ -36,24 +36,24 @@ Minecraft Java Edition `1.14 - 1.19`
 
 ## 新增配方
 
-![](./img/campfire_to_charcoal.png) ![](./img/clay_to_clay_ball.png)
+<img src="./img/campfire_to_charcoal.png" width="250px"> <img src="./img/clay_to_clay_ball.png" width="250px">
 
-![](./img/dead_bush_to_stick.png) ![](./img/dirt_path_to_dirt.png)
+<img src="./img/dead_bush_to_stick.png" width="250px"> <img src="./img/dirt_path_to_dirt.png" width="250px">
 
-![](./img/dispenser.png) ![](./img/farmland_to_dirt.png)
+<img src="./img/dispenser.png" width="250px"> <img src="./img/farmland_to_dirt.png" width="250px">
 
-![](./img/glowstone_to_glowstone_dust.png) ![](./img/grass_block_to_dirt.png)
+<img src="./img/glowstone_to_glowstone_dust.png" width="250px"> <img src="./img/grass_block_to_dirt.png" width="250px">
 
-![](./img/gravels_to_flint.png) ![](./img/hopper.png)
+<img src="./img/gravels_to_flint.png" width="250px"> <img src="./img/hopper.png" width="250px">
 
-![](./img/logs_to_chests.png) ![](./img/logs_to_ladders.png)
+<img src="./img/logs_to_chests.png" width="250px"> <img src="./img/logs_to_ladders.png" width="250px">
 
-![](./img/logs_to_sticks.png) ![](./img/melon_to_melon_slice.png)
+<img src="./img/logs_to_sticks.png" width="250px"> <img src="./img/melon_to_melon_slice.png" width="250px">
 
-![](./img/mycelium_to_dirt.png) ![](./img/podzol_to_dirt.png)
+<img src="./img/mycelium_to_dirt.png" width="250px"> <img src="./img/podzol_to_dirt.png" width="250px">
 
-![](./img/potion_to_glass_bottle.png) ![](./img/redstone_lamp.png)
+<img src="./img/potion_to_glass_bottle.png" width="250px"> <img src="./img/redstone_lamp.png" width="250px">
 
-![](./img/repeater.png) ![](./img/sea_lantern_to_prismarine_crystals.png)
+<img src="./img/repeater.png" width="250px"> <img src="./img/sea_lantern_to_prismarine_crystals.png" width="250px">
 
-![](./img/soul_campfire_to_soul_soil.png)
+<img src="./img/soul_campfire_to_soul_soil.png" width="250px">
