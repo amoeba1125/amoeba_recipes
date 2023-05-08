@@ -8,7 +8,7 @@ Minecraft Java Edition `1.14 - 1.19`
 
 ## 安裝
 
-從 [Release](../../releases) 下載後將 `amoeba_recipes.zip` 壓縮檔放到 `.minecraft\saves\<世界名稱>\datapacks\` 路徑中，  
+從 [Releases](../../releases) 下載後將 `amoeba_recipes.zip` 壓縮檔放到 `.minecraft\saves\<世界名稱>\datapacks\` 路徑中，  
 進入該世界後以管理員身分輸入指令 `/datapack enable "file/amoeba_recipes.zip"` 即可。
 
 ## 說明
