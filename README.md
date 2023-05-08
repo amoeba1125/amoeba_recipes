@@ -1,3 +1,9 @@
+<style>
+  img {
+    width: 250px
+  }
+</style>
+
 # amoeba recipes: 在Minecraft中新增更多配方的資料包
 
 一個基於原版的Minecraft合成配方擴充資料包，讓你的Minecraft玩起來更方便有趣！
@@ -51,9 +57,3 @@ Minecraft Java Edition `1.14 - 1.19`
 ![](./img/repeater.png) ![](./img/sea_lantern_to_prismarine_crystals.png)
 
 ![](./img/soul_campfire_to_soul_soil.png)
-
-<style>
-  img {
-    width: 250px
-  }
-</style>
