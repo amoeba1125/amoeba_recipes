@@ -1,9 +1,3 @@
-<style>
-  img {
-    width: 250px
-  }
-</style>
-
 # amoeba recipes: 在Minecraft中新增更多配方的資料包
 
 一個基於原版的Minecraft合成配方擴充資料包，讓你的Minecraft玩起來更方便有趣！
