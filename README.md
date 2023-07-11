@@ -4,7 +4,7 @@
 
 ## 遊戲版本
 
-Minecraft Java Edition `1.14 - 1.19`
+Minecraft Java Edition `1.14 - 1.20`
 
 ## 安裝
 
