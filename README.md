@@ -4,7 +4,7 @@
 
 ## 遊戲版本
 
-Minecraft Java Edition `1.14 - 1.19`
+Minecraft Java Edition `1.14 - 1.20`
 
 ## 安裝
 
@@ -29,5 +29,5 @@ Minecraft Java Edition `1.14 - 1.19`
   ```
 ## 新增配方
 
-<img src="https://github.com/amoeba1125/amoeba_recipes/assets/121224522/3e143526-8d7b-49bc-9e9d-5c0d23277d1c" width="500px">
-<img src="https://github.com/amoeba1125/amoeba_recipes/assets/121224522/dd979937-ae6c-4aff-a20a-da823535fedc" width="500px">
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/img/img1.gif" width="500px">
+<img src="https://github.com/amoeba1125/amoeba_recipes/blob/main/img/img2.gif" width="500px">
