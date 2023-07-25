@@ -1,1 +1,6 @@
-{"pack":{"pack_format":10,"description":"A minecraft datapack that adds many convenience recipes made by Amoeba."}}
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "A Minecraft data pack that adds many convenience recipes made by Amoeba."
+  }
+}
